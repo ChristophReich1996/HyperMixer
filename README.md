@@ -1,5 +1,7 @@
 # HyperMixer: An MLP-based Green AI Alternative to Transformers
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ChristophReich1996/HyperMixer/blob/master/LICENSE)
+
 This is a very quick (and maybe wrong) PyTorch reimplementation of the [HyperMixer](https://arxiv.org/pdf/2203.03691.pdf).
 
 # Usage
